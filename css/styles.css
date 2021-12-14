@@ -1,0 +1,146 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Oxygen', sans-serif;
+  color: #FEC260;
+}
+
+h1 {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 5rem;
+  color: #FEC260;
+  margin: 300px auto;
+}
+
+h2 {
+  font-family: 'Dosis', sans-serif;
+  color: #A12568;
+  margin: 0;
+  font-size: 2.5rem;
+}
+
+p {
+  margin: 0;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+a:hover {
+  color: #FEC260;
+}
+
+.top-container {
+  background-color: #3B185F;
+  position: relative;
+  padding-top: 10px;
+  margin: 0;
+}
+
+.mountain {
+  padding: 200px;
+}
+
+.iam {
+  font-size: 7rem;
+}
+
+.galaed {
+  font-size: 6rem;
+}
+
+.magus {
+  color: #2A0944;
+  font-size: 3rem;
+}
+
+.middle-container {
+  padding: 200px;
+  background-color: #3B185F;
+  margin: 0;
+  line-height: 5rem;
+}
+
+.treeoflife {
+  margin-bottom: 200px;
+}
+
+.skills {
+  text-align: left;
+}
+
+.coding {
+  width: 200px;
+  float: left;
+  margin-right: 50px;
+}
+
+.skillsh2 {
+  text-decoration: none;
+  color: #A12568;
+}
+
+.skillsh2:hover {
+  color: #FEC260;
+}
+
+.acting {
+  width: 200px;
+  float: left;
+  margin-right: 50px;
+}
+
+.music {
+  width: 200px;
+  float: left;
+  margin-right: 50px;
+}
+
+.music-link {
+  text-decoration: none;
+}
+
+.bottom-container {
+  padding: 30px;
+  line-height: 5rem;
+  background-color: #2A0944;
+}
+
+.social-media {
+  color: #A12568;
+  text-decoration: none;
+  font-size: 2rem;
+  font-family: monospace;
+  padding-bottom: 4rem;
+}
+
+.btn {
+  background: #A12568;
+  background-image: -webkit-linear-gradient(top, #A12568, #3B185F);
+  background-image: -moz-linear-gradient(top, #A12568, #3B185F);
+  background-image: -ms-linear-gradient(top, #A12568, #3B185F);
+  background-image: -o-linear-gradient(top, #A12568, #3B185F);
+  background-image: linear-gradient(to bottom, #A12568, #3B185F);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: monospace;
+  color: white;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #FEC260;
+  background-image: -webkit-linear-gradient(top, #FEC260, #A12568);
+  background-image: -moz-linear-gradient(top, #FEC260, #A12568);
+  background-image: -ms-linear-gradient(top, #FEC260, #A12568);
+  background-image: -o-linear-gradient(top, #FEC260, #A12568);
+  background-image: linear-gradient(to bottom, #FEC260, #A12568);
+  text-decoration: none;
+}
+
+.copyright {
+  color: white;
+  font-size: 1rem;
+}
